@@ -1,0 +1,141 @@
+{
+  "event": {
+    "name": "CampusFest Kolkata 2025",
+    "city": "Kolkata",
+    "challenge": "Challenge B \u2014 Sponsorship Growth",
+    "north_star": "Cash Collected Before Fest (INR)",
+    "base_target_inr": 1723800,
+    "stretch_target_inr": 3098542,
+    "haircut_adjusted_target_inr": 2976800,
+    "budget_cap_inr": 100000,
+    "inventory_cash_slots": 32,
+    "team_hours_cap": 480
+  },
+  "ideas_campaigns": [
+    {
+      "id": "I1",
+      "name": "Early-Bird Milestone & Prime-Slot Lock-In (\"Cash-First Tranches\")",
+      "rank": 1,
+      "rice_score": 32.4,
+      "owner": "Meera Iyer",
+      "timeline": "Weeks 3-12",
+      "gross_inr": 413139,
+      "overlap_haircut_pct": 0.1,
+      "net_incremental_inr": 372000,
+      "budget_inr": 12000,
+      "leading_indicator": "Early-Bird Terms Acceptance Rate (%)",
+      "unit": "%",
+      "window": "First 10 proposals / Wk 5",
+      "thresholds": {
+        "scale_min": 75,
+        "change_min": 50,
+        "stop_below": 50
+      },
+      "actions": {
+        "scale": "Make 50%/50% T-7d default across all tiers; add prime stage perks.",
+        "change": "Offer 30% sign / 60% T-7d / 10% PoP fallback for legacy HQs.",
+        "stop": "Drop mandatory upfront lock-in; revert to 30/50/20 tranches."
+      }
+    },
+    {
+      "id": "I2",
+      "name": "Zero-Drop Inbound & Referral CRM Fast-Track (\"24-Hr Opp Gate\")",
+      "rank": 2,
+      "rice_score": 25.33,
+      "owner": "Kabir Shah",
+      "timeline": "Weeks 1-12",
+      "gross_inr": 179010,
+      "overlap_haircut_pct": 0.05,
+      "net_incremental_inr": 170000,
+      "budget_inr": 8000,
+      "leading_indicator": "Qualified Leads Actioned <= 24h (%)",
+      "unit": "%",
+      "window": "First 20 qualified leads / Wk 4",
+      "thresholds": {
+        "scale_min": 90,
+        "change_min": 75,
+        "stop_below": 75
+      },
+      "actions": {
+        "scale": "Expand CRM auto-trigger to SC02 warm alumni referrals.",
+        "change": "Pre-build 3 vertical templates; hard-lock CRM qual stage gate.",
+        "stop": "Pause automation; assign Meera 2h/day manual triage block."
+      }
+    },
+    {
+      "id": "I3",
+      "name": "Category-Exclusivity Tiering & Kolkata Flagship Title Bundle",
+      "rank": 3,
+      "rice_score": 19.2,
+      "owner": "Riya Kapoor",
+      "timeline": "Weeks 1-10",
+      "gross_inr": 350270,
+      "overlap_haircut_pct": 0.08,
+      "net_incremental_inr": 322000,
+      "budget_inr": 18000,
+      "leading_indicator": "Exclusivity / Title Shortlist Rate (%)",
+      "unit": "%",
+      "window": "First 15 HQ meetings / Wk 5",
+      "thresholds": {
+        "scale_min": 40,
+        "change_min": 20,
+        "stop_below": 20
+      },
+      "actions": {
+        "scale": "Raise remaining Category slots to \u20b91.45L scarcity pricing.",
+        "change": "Split \u20b94L Title into 2x \u20b92.25L Co-Titles; bundle 20k creator reels.",
+        "stop": "Sunset exclusivity premium; revert to \u20b91.25L standard category slots."
+      }
+    },
+    {
+      "id": "I4",
+      "name": "ICP Sponsor-Scoring & Anti-Bloat Filter (\"Stop Cold Media Bleed\")",
+      "rank": 4,
+      "rice_score": 15.3,
+      "owner": "Kabir Shah",
+      "timeline": "Weeks 1-12",
+      "gross_inr": 246683,
+      "overlap_haircut_pct": 0.1,
+      "net_incremental_inr": 222000,
+      "budget_inr": 20000,
+      "leading_indicator": "Meetings Booked per Scored Prospects (%)",
+      "unit": "%",
+      "window": "First 60 scored prospects / Wk 4",
+      "thresholds": {
+        "scale_min": 35,
+        "change_min": 25,
+        "stop_below": 25
+      },
+      "actions": {
+        "scale": "Lock Score >= 60 permanently; auto-downsell >7d stalls to \u20b955k Booth.",
+        "change": "Lower Sector V IT/EdTech cutoff 60->50; Riya Day-5 exec nudge.",
+        "stop": "Allow Brand Marketing Lead warm referrals with PM escalation."
+      }
+    },
+    {
+      "id": "I5",
+      "name": "Kolkata Alumni & Creator-Bundled Warm Intro Engine",
+      "rank": 5,
+      "rice_score": 11.9,
+      "owner": "Nisha Rao",
+      "timeline": "Weeks 1-11",
+      "gross_inr": 185640,
+      "overlap_haircut_pct": 0.1,
+      "net_incremental_inr": 167000,
+      "budget_inr": 42000,
+      "leading_indicator": "Meetings Booked per 20 Warm Touches (%)",
+      "unit": "%",
+      "window": "First 20 warm touches / Wk 4",
+      "thresholds": {
+        "scale_min": 65,
+        "change_min": 40,
+        "stop_below": 40
+      },
+      "actions": {
+        "scale": "Unlock full \u20b942k creator budget; cut SC01 cold email to 0.",
+        "change": "Pause paid creator retainers (save \u20b918k); pivot pitch to QR lead ROI.",
+        "stop": "Freeze remaining \u20b925k+ spend; reallocate budget to I2 & I3."
+      }
+    }
+  ]
+}
